@@ -1,0 +1,7 @@
+E:\c# projects\DataTable_Training_Employees\bin\Debug\DataTable_Training_Employees.exe.config
+E:\c# projects\DataTable_Training_Employees\bin\Debug\DataTable_Training_Employees.exe
+E:\c# projects\DataTable_Training_Employees\bin\Debug\DataTable_Training_Employees.pdb
+E:\c# projects\DataTable_Training_Employees\obj\Debug\DataTable_Training_Employees.csproj.AssemblyReference.cache
+E:\c# projects\DataTable_Training_Employees\obj\Debug\DataTable_Training_Employees.csproj.CoreCompileInputs.cache
+E:\c# projects\DataTable_Training_Employees\obj\Debug\DataTable_Training_Employees.exe
+E:\c# projects\DataTable_Training_Employees\obj\Debug\DataTable_Training_Employees.pdb
